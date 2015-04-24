@@ -1,0 +1,470 @@
+[1] "Porgi"
+[1] "% on leading:"
+[1] 0.5118529
+[1] "Essentiality(Strand)"
+   y
+x   essential nonessential
+  0       207          772
+  1       255          773
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.05615
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.8129031 
+
+[1] "CAI(Essentiality)"
+              y
+x              FALSE TRUE
+  essential      382   80
+  nonessential  1418  127
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 1.134e-07
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.4278748 
+
+[1] "CAI(Strand)"
+   y
+x   FALSE TRUE
+  0   860  119
+  1   940   88
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.008258
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.6766983 
+
+[1] "CAI(Strand) in essential subgroup"
+   y
+x   FALSE TRUE
+  0   160   47
+  1   222   33
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.006535
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.5067906 
+
+[1] "CAI(Strand) in nonessential subgroup"
+   y
+x   FALSE TRUE
+  0   700   72
+  1   718   55
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.1164
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.7448838 
+
+[1] "Frano"
+[1] "% on leading:"
+[1] NA
+[1] "Essentiality(Strand)"
+   y
+x   essential nonessential
+  0       113          528
+  1       273          785
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.0001002
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.6155648 
+
+[1] "CAI(Essentiality)"
+              y
+x              FALSE TRUE
+  essential      340   46
+  nonessential  1197  116
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.07599
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.7164346 
+
+[1] "CAI(Strand)"
+   y
+x   FALSE TRUE
+  0   591   50
+  1   946  112
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.06102
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+   1.39914 
+
+[1] "CAI(Strand) in essential subgroup"
+   y
+x   FALSE TRUE
+  0    98   15
+  1   242   31
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.6068
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.8373287 
+
+[1] "CAI(Strand) in nonessential subgroup"
+   y
+x   FALSE TRUE
+  0   493   35
+  1   704   81
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.02243
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  1.620086 
+
+
+[1] "Caulo"
+[1] "% on leading:"
+[1] 0.545619
+[1] "Essentiality(Strand)"
+   y
+x   essential nonessential
+  0       129         1249
+  1       271         1391
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 1.322e-08
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.5302443 
+
+[1] "CAI(Essentiality)"
+              y
+x              FALSE TRUE
+  essential      307   93
+  nonessential  2421  219
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.2987905 
+
+[1] "CAI(Strand)"
+   y
+x   FALSE TRUE
+  0  1224  154
+  1  1504  158
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.1338
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.8350211 
+
+[1] "CAI(Strand) in essential subgroup"
+   y
+x   FALSE TRUE
+  0    92   37
+  1   215   56
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.07813
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.6483575 
+
+[1] "CAI(Strand) in nonessential subgroup"
+   y
+x   FALSE TRUE
+  0  1132  117
+  1  1289  102
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.06599
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.7656928 
+
+[1] "Bath"
+[1] "% on leading:"
+[1] 0.5785384
+[1] "Essentiality(Strand)"
+   y
+x   essential nonessential
+  0       136         1871
+  1       188         2567
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 1
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.9925073 
+
+[1] "CAI(Essentiality)"
+              y
+x              FALSE TRUE
+  essential      243   81
+  nonessential  4044  394
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 3.206e-16
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.2923974 
+
+[1] "CAI(Strand)"
+   y
+x   FALSE TRUE
+  0  1816  191
+  1  2471  284
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.3784
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+   1.09278 
+
+[1] "CAI(Strand) in essential subgroup"
+   y
+x   FALSE TRUE
+  0   103   33
+  1   140   48
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.8966
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  1.069937 
+
+[1] "CAI(Strand) in nonessential subgroup"
+   y
+x   FALSE TRUE
+  0  1713  158
+  1  2331  236
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.3931
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  1.097676 
+
+[1] "Buth"
+[1] "% on leading:"
+[1] 0.5831993
+[1] "Essentiality(Strand)"
+   y
+x   essential nonessential
+  0       130         2202
+  1       274         2989
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 5.278e-05
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.6440731 
+
+[1] "CAI(Essentiality)"
+              y
+x              FALSE TRUE
+  essential      318   86
+  nonessential  4716  475
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 2.962e-12
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.3725233 
+
+[1] "CAI(Strand)"
+   y
+x   FALSE TRUE
+  0  2097  235
+  1  2937  326
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.9281
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.9904767 
+
+[1] "CAI(Strand) in essential subgroup"
+   y
+x   FALSE TRUE
+  0    95   35
+  1   223   51
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.06832
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.6215083 
+
+[1] "CAI(Strand) in nonessential subgroup"
+   y
+x   FALSE TRUE
+  0  2002  200
+  1  2714  275
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.9224
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  1.014276 
+
+[1] "Bups"
+[1] "% on leading:"
+[1] 0.5812566
+[1] "Essentiality(Strand)"
+   y
+x   essential nonessential
+  0       173         2213
+  1       332         2980
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.0002701
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.7017299 
+
+[1] "CAI(Essentiality)"
+              y
+x              FALSE TRUE
+  essential      415   90
+  nonessential  4710  483
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 2.468e-08
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.4729378 
+
+[1] "CAI(Strand)"
+   y
+x   FALSE TRUE
+  0  2121  265
+  1  3004  308
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.02567
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  0.820661 
+
+[1] "CAI(Strand) in essential subgroup"
+   y
+x   FALSE TRUE
+  0   134   39
+  1   281   51
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.05033
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.6241864 
+
+[1] "CAI(Strand) in nonessential subgroup"
+   y
+x   FALSE TRUE
+  0  1987  226
+  1  2723  257
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.05336
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+ 0.8298374 
+
+[1] "Aciba"

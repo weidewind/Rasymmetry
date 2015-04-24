@@ -1,0 +1,122 @@
+[1] "GSM1264240"
+[1] "Caulobacter crescentus, delta_CCNA_00382 (ccrM), replicate 1"
+[1] "Caulobacter crescentus, delta_CCNA_00382 (ccrM)"
+[1] "x=Strand, y=exprBoolean"
+   y
+x   FALSE TRUE
+  0  1552  134
+  1  1797  241
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 9.876e-05
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  1.553115 
+
+[1] "GSM1264241"
+[1] "Caulobacter crescentus, delta_CCNA_00382 (ccrM), replicate 2"
+[1] "Caulobacter crescentus, delta_CCNA_00382 (ccrM)"
+[1] "x=Strand, y=exprBoolean"
+   y
+x   FALSE TRUE
+  0  1547  139
+  1  1802  236
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 0.00083
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  1.457431 
+
+[1] "GSM1264242"
+[1] "Caulobacter crescentus, delta_CCNA_00382 (ccrM), replicate 3"
+[1] "Caulobacter crescentus, delta_CCNA_00382 (ccrM)"
+[1] "x=Strand, y=exprBoolean"
+   y
+x   FALSE TRUE
+  0  1555  131
+  1  1794  244
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 2.391e-05
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  1.614246 
+
+[1] "GSM1264243"
+[1] "Caulobacter crescentus, wild type, replicate 1"
+[1] "Caulobacter crescentus, wild type"
+[1] "x=Strand, y=exprBoolean"
+   y
+x   FALSE TRUE
+  0  1558  128
+  1  1791  247
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 4.122e-06
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  1.678409 
+
+[1] "GSM1264244"
+[1] "Caulobacter crescentus, wild type, replicate 2"
+[1] "Caulobacter crescentus, wild type"
+[1] "x=Strand, y=exprBoolean"
+   y
+x   FALSE TRUE
+  0  1558  128
+  1  1791  247
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 4.122e-06
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  1.678409 
+
+[1] "GSM1264245"
+[1] "Caulobacter crescentus, wild type, replicate 3"
+[1] "Caulobacter crescentus, wild type"
+[1] "x=Strand, y=exprBoolean"
+   y
+x   FALSE TRUE
+  0  1560  126
+  1  1789  249
+
+	Fisher's Exact Test for Count Data
+
+data:  x and y
+p-value = 1.386e-06
+alternative hypothesis: true odds ratio is not equal to 1
+sample estimates:
+odds ratio 
+  1.722975 
+
+         ids                                                         desc
+1 GSM1264240 Caulobacter crescentus, delta_CCNA_00382 (ccrM), replicate 1
+2 GSM1264241 Caulobacter crescentus, delta_CCNA_00382 (ccrM), replicate 2
+3 GSM1264242 Caulobacter crescentus, delta_CCNA_00382 (ccrM), replicate 3
+4 GSM1264243               Caulobacter crescentus, wild type, replicate 1
+5 GSM1264244               Caulobacter crescentus, wild type, replicate 2
+6 GSM1264245               Caulobacter crescentus, wild type, replicate 3
+                                               sn         pval    ratio
+1 Caulobacter crescentus, delta_CCNA_00382 (ccrM) 9.875706e-05 1.553115
+2 Caulobacter crescentus, delta_CCNA_00382 (ccrM) 8.300198e-04 1.457431
+3 Caulobacter crescentus, delta_CCNA_00382 (ccrM) 2.391015e-05 1.614246
+4               Caulobacter crescentus, wild type 4.122153e-06 1.678409
+5               Caulobacter crescentus, wild type 4.122153e-06 1.678409
+6               Caulobacter crescentus, wild type 1.385910e-06 1.722975
